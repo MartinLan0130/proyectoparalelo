@@ -1,0 +1,14 @@
+{
+  "name": "proyecto_paralelo",
+  "version": "1.0.0",
+  "description": "❇️ Nuestra aplicación web ofrecerá como producto **medias con diseños de los personajes de los Simpsons**, serie icónica  de la cultura pop. Una opción fresca y divertida para obsequiar algo original a bajo costo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
